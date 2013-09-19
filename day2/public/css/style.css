@@ -1,4 +1,17 @@
+body {
+  color: #333333;
+  font-family: "Open Sans", sans-serif; }
+
+#author img {
+  width: 48px;
+  height: 48px; }
+
+#book-info {
+  padding-bottom: 10px; }
+  #book-info h3 {
+    border-bottom: 1px solid #cccccc;
+    border-top: 1px solid #333333; }
+
 .author img {
-    width: 48px;
-    height: 48px;
-}
+  width: 48px;
+  height: 48px; }
